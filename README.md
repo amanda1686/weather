@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Bienvenido a Weathe, tu destino principal para obtener información precisa y actualizada sobre el clima en cualquier parte del mundo! Nuestra plataforma intuitiva y fácil de usar te brinda un acceso rápido y confiable al pronóstico meteorológico, permitiéndote planificar tu día con anticipación.
+Bienvenido a Weather, tu destino principal para obtener información precisa y actualizada sobre el clima en cualquier parte del mundo! Nuestra plataforma intuitiva y fácil de usar te brinda un acceso rápido y confiable al pronóstico meteorológico, permitiéndote planificar tu día con anticipación.
 
 ![https://media4.giphy.com/media/3oEjHGZkrolm9UgvM4/giphy.gif?cid=7941fdc6t9y8jwiautgkjxtkqca62qvl2qzwdbcwjo4as292&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://media4.giphy.com/media/3oEjHGZkrolm9UgvM4/giphy.gif?cid=7941fdc6t9y8jwiautgkjxtkqca62qvl2qzwdbcwjo4as292&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
