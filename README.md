@@ -15,7 +15,8 @@ Bienvenido a Weather, tu destino principal para obtener información precisa y a
 
 Weather, utiliza las últimas tecnologías en el campo de la meteorología para proporcionar información precisa y en tiempo real. Nuestra interfaz amigable y diseño limpio hacen que la experiencia de obtener el pronóstico del tiempo sea fácil y agradable.
 
-![Untitled](Tiempo%200952fb1fe90b429787b7d3900b09004b/Untitled.png)
+![image](https://github.com/amanda1686/weather/assets/80174591/e03457a9-eb25-4d3d-8811-5d9ba18e33c2)
+
 
 ❄️🌥️☔☀️🌺🍁❄️🌥️☔☀️🌺🍁❄️🌥️☔☀️🌺🍁❄️🌥️☔☀️🌺🍁❄️🌥️☔☀️🌺🍁❄️🌥️☔☀️🌺🍁
 
